@@ -1,0 +1,14 @@
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\bin\Debug\net8.0\SimulacionVehiculo.exe
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\bin\Debug\net8.0\SimulacionVehiculo.deps.json
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\bin\Debug\net8.0\SimulacionVehiculo.runtimeconfig.json
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\bin\Debug\net8.0\SimulacionVehiculo.dll
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\bin\Debug\net8.0\SimulacionVehiculo.pdb
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\obj\Debug\net8.0\SimulacionVehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\obj\Debug\net8.0\SimulacionVehiculo.AssemblyInfoInputs.cache
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\obj\Debug\net8.0\SimulacionVehiculo.AssemblyInfo.cs
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\obj\Debug\net8.0\SimulacionVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\obj\Debug\net8.0\SimulacionVehiculo.dll
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\obj\Debug\net8.0\refint\SimulacionVehiculo.dll
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\obj\Debug\net8.0\SimulacionVehiculo.pdb
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\obj\Debug\net8.0\SimulacionVehiculo.genruntimeconfig.cache
+C:\Users\ninoa\Desktop\SimulacionVehiculo\SimulacionVehiculo\obj\Debug\net8.0\ref\SimulacionVehiculo.dll
